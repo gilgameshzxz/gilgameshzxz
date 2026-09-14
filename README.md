@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=MORCELAGOX&fontSize=80&fontColor=ffffff&animation=fadeIn&color=000000">
 
-<br>
-https://chatgpt.com/s/w_6aa7cecd479481919eafd9a50b290dbb
+<div align="center">
+  <img src="./assets.svg" width="100%" alt="MORCELAGOX">
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=450&pause=120&color=FFFFFF&center=true&vCenter=true&width=900&lines=%5B+BOOTING+%5D;%5B+INITIALIZING+%5D;%5B+%2Fdev%2Fself+%5D;%5B+LOADING+%3F%3F%3F+%5D;%5B+SIGNAL+ACQUIRED+%5D;%5B+REALITY.exe+%5D;%5B+∞+%5D;%5B+PROCESS+CONTINUES+%5D">
 
 <br><br>

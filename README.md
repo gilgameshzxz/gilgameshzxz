@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/me.jpg" width="220" />
+<img src="https://github.com/MORCELAGOX.png" width="180" />
 
 # MORCELAGOX
 
@@ -10,33 +10,29 @@
 
 <br>
 
-<img src="./assets/universe.gif" width="800" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=???&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45&section=header" width="100%" />
 
 </div>
 
 ---
 
-# ???
+<div align="center">
 
-I don't know.
+## I DON'T KNOW.
 
-That's interesting.
+### That's interesting.
 
-Most people start with:
+<br>
 
-**"What is it?"**
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=What+is+possible%3F;Why+does+it+have+to+be+this+way%3F;What+comes+before+the+thing%3F;What+if+the+interface+is+wrong%3F" />
 
-I prefer:
-
-**"What could it be?"**
+</div>
 
 ---
 
-<div align="center">
+# ∅
 
-<img src="./assets/void.jpg" width="700" />
-
-### I distrust defaults.
+I distrust defaults.
 
 Why a list?
 
@@ -48,70 +44,14 @@ Why this interface?
 
 Why this reality?
 
-</div>
+Sometimes a convention is just a decision that survived long enough to become invisible.
 
----
+So I ask:
 
-# I BUILD QUESTIONS
-
-Sometimes they become software.
-
-Sometimes they become nonsense.
-
-Sometimes they become **Maragram**.
-
-<div align="center">
-
-<img src="./assets/maragram.gif" width="850" />
-
-**What if communication had a geography?**
-
-</div>
-
----
-
-# `???`
-
-<div align="center">
-
-<img src="./assets/question.gif" width="400" />
-
-</div>
-
-I like undefined things.
-
-Before the name.
-Before the category.
-Before the explanation.
-
-**Possibility is enough.**
+> **What if we decide differently?**
 
 ---
 
 <div align="center">
 
-### philosopher
-
-### developer
-
-### experimenter
-
-### human
-
-<br>
-
-`question → experiment → reality → question`
-
-<br>
-
-**I don't know where this goes.**
-
-**That's the point.**
-
-<br>
-
-<a href="https://t.me/MORCELAGOX">
-<img src="https://img.shields.io/badge/TALK_TO_ME-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=PHILOSOPHY%20%E2%86%92%20EXPERIMENT%20%E2%86%92%20CODE&fontSize=24&fontColor=ffffff&color=0d1117" width=

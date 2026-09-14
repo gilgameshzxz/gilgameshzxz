@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/MORCELAGOX.png" width="170">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&height=210&text=MORCELAGOX&fontSize=68&fontColor=ffffff&animation=twinkling&color=gradient" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=ALAM+MALIA;I+am+looking+for+the+thing+before+the+thing.;I+don't+know.;That's+interesting.;What+is+possible%3F" />

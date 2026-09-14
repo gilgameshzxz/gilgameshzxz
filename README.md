@@ -1,23 +1,120 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=%3F%3F%3F&fontSize=110&fontColor=ffffff&fontFamily=Fira%20Code&animation=twinkling&color=000000&stroke=555555&strokeWidth=1">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=%3F%3F%3F&fontSize=64&fontColor=ffffff&animation=fadeIn&color=000000&stroke=444444&strokeWidth=1">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&color=000000&stroke=777777&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=110&color=000000&stroke=666666&animation=twinkling">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=pulse&height=180&section=header&color=000000&stroke=666666&animation=twinkling">
+<pre>
+             ╭──────────────────────────────────────────────╮
+             │                                              │
+             │                  ???                         │
+             │             ╱─────────╲                     │
+             │          ╱───╲   ·   ╱───╲                  │
+             │        ╱───────╲ │ ╱───────╲                │
+             │       │    ·────╳────·    │                │
+             │        ╲───────╱ │ ╲───────╱                │
+             │          ╲───╱   ·   ╲───╱                  │
+             │             ╲─────────╱                     │
+             │                                              │
+             ╰──────────────────────────────────────────────╯
+</pre>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&section=header&text=%40MORCELAGOX&fontSize=32&fontColor=aaaaaa&fontFamily=Fira%20Code&animation=blinking&color=000000&stroke=333333&strokeWidth=1">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=11&duration=2600&pause=700&color=888888&center=true&vCenter=true&width=600&height=35&lines=MORCELAGOX;%40MORCELAGOX;ALAM+MALIA;PHILOSOPHER+%2B+VIBE+CODER" alt="">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&color=000000&stroke=555555&animation=twinkling">
+<pre>
+        ┌───────────────┐             ┌────────────────┐
+        │   PHILOSOPHY  │─────────────│    COMPUTATION │
+        │               │      ╲      │                │
+        │   reality?    │       ╲     │  Java Kotlin   │
+        │   truth?      │        ╲────│  Flutter       │
+        │   God?        │───────???────│  C++ / Python │
+        └───────────────┘        ╱────│  experiments   │
+                                ╱     └────────────────┘
+                         ╭─────╯
+                         │
+                         ▼
+                    ┌───────────┐
+                    │  ABSURD   │
+                    │     ·     │
+                    │  ∞ = ???  │
+                    │  0 → 1    │
+                    │  1 → ???  │
+                    └─────┬─────┘
+                          │
+                ──────────┼──────────
+                     ╱    │    ╲
+                    ╱     │     ╲
+                   ▼      ▼      ▼
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=3200&pause=900&color=888888&center=true&vCenter=true&width=900&height=80&lines=ALAM+MALIA;%3F%3F%3F;PHILOSOPHER+%2B+VIBE+CODER;MORCELAGOX;MARAGRAM;FARA;SECOND+MIND" alt="">
+             MARAGRAM    FARA    SECOND MIND
+                 │         │          │
+              nodes      branches   memory
+              space      possibility time
+              signals    structure  relevance
+              messages   recursion  dimensions
+                 ╲         │          ╱
+                  ╲────────┼─────────╱
+                           │
+                          ???
+</pre>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&color=000000&stroke=444444&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=000000&stroke=555555&animation=twinkling">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=180&section=header&text=%3F%3F%3F&fontSize=60&fontColor=ffffff&animation=blink&color=000000&stroke=333333&strokeWidth=1">
+<pre>
+  ──────╮        ╭──────────────╮        ╭──────
+        │        │   OPEN       │        │
+   ·────┼────────│   SOURCE     │────────┼────·
+        │        │   / BUILD    │        │
+  ──────╯        ╰──────┬───────╯        ╰──────
+                         │
+                 unfinished_on_purpose
+                         │
+              ┌──────────┼──────────┐
+              │          │          │
+             0│1        ???       ∞│0
+              │          │          │
+              └──────────┼──────────┘
+                         │
+                   ──────┼──────
+                      ╱  │  ╲
+                     ╱   │   ╲
+                    ╱    │    ╲
+                   ·     ·     ·
+                   
+             HUMAN ──── MACHINE ──── UNKNOWN
+                         │
+                    observing itself
+                         │
+                       [???]
+</pre>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&section=footer&color=000000&stroke=666666&animation=twinkling">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=10&duration=1800&pause=500&color=666666&center=true&vCenter=true&width=700&height=30&lines=NOT+A+PORTFOLIO;NOT+A+SYSTEM;NOT+NOT+A+SYSTEM;SOMETHING+IS+OBSERVING+SOMETHING;ERROR%3A+DEFINITION+NOT+FOUND;BUILDING+WHILE+BUILDING+THE+BUILDER" alt="">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=footer&text=%E2%88%9E&fontSize=70&fontColor=777777&animation=twinkling&color=000000&stroke=333333&strokeWidth=1">
+<pre>
+        ·       ╱╲        ·        ╱╲        ·
+          ╲    ╱  ╲          ╲   ╱  ╲
+       ────╲──╱────╲──────────╲─╱────╲────
+            ╳      ╳            ╳      ╳
+       ────╱──╲────╱──────────╱─╲────╱────
+          ╱    ╲  ╱          ╱   ╲  ╱
+        ·       ╲╱        ·  ╲   ╲╱       ·
+
+                    ??? 
+
+       truth ─── possibility ─── distinction
+          ╲             │             ╱
+           ╲            │            ╱
+            ╲────── composition ────╱
+                         │
+                    effect → effect
+                         │
+                    nothing → something
+                         │
+                    order → ambiguity
+                         │
+                    ambiguity → order
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=%3F%3F%3F&fontSize=42&fontColor=ffffff&animation=twinkling&color=000000&stroke=333333&strokeWidth=1">
 
 </div>

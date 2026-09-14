@@ -1,23 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=34&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=%3F%3F%3F;MORCELAGOX;ALAM+MALIA;HUMAN+%3A%3A%3A%3A%3A%3A+MACHINE" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&lines=???;MORCELAGOX;ALAM+MALIA" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=1500&pause=300&color=888888&center=true&vCenter=true&width=900&height=35&lines=IDENTITY+%3D+UNRESOLVED;PHILOSOPHER+%2B+VIBE+CODER;QUESTION+%3E+ANSWER;TRUTH+%3F%3F%3F+COMFORT;UNKNOWN+%3E+PRETENDING+TO+KNOW" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1500&pause=400&color=AAAAAA&center=true&vCenter=true&width=1000&height=55&lines=ABDALLAH+HAS+ENTERED+THE+SYSTEM;GILGAMESH+IS+STILL+WAITING;THE+COMPUTER+REFUSES+TO+EXPLAIN;NOBODY+REQUESTED+THIS+DATABASE" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=11&duration=1300&pause=250&color=666666&center=true&vCenter=true&width=900&height=30&lines=REALITY+%3D+POSSIBILITY%2B%2B;NOTHING+%E2%86%92+SOMETHING;SOMETHING+%E2%86%92+SOMETHING+ELSE;DISTINCTION+%E2%86%92+COMPOSITION+%E2%86%92+RECURSION;ORDER+%E2%86%94+CHAOS;OBSERVER+%E2%86%94+OBSERVED" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=1300&pause=350&color=888888&center=true&vCenter=true&width=1000&height=55&lines=PHILOSOPHER+%2B+VIBE+CODER;PROFESSIONAL+DISTURBER+OF+DEFINITIONS;HUMAN+%3A%3A%3A+MACHINE;OBSERVER+%3A%3A%3A+OBSERVED" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=11&duration=1200&pause=220&color=777777&center=true&vCenter=true&width=900&height=30&lines=JAVA+%2F+KOTLIN+%2F+FLUTTER;C%2B%2B+%2F+PYTHON+%2F+EXPERIMENTS;BUILD+%E2%86%92+BREAK+%E2%86%92+OBSERVE+%E2%86%92+REBUILD;CODE+IS+ANOTHER+WAY+OF+ASKING;BUILDING+THE+BUILDER" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=1200&pause=300&color=777777&center=true&vCenter=true&width=1000&height=55&lines=GILGAMESH+%3D+0;ABDALLAH+%3D+1;???+%3D+NULL;NULL+%3D+PROBABLY+GOD" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=12&duration=1400&pause=250&color=888888&center=true&vCenter=true&width=900&height=32&lines=MARAGRAM+%3A%3A+SPACE+%3E+TIMELINE;NODE+%E2%86%94+NODE+%E2%86%94+NODE;MESSAGE+%E2%89%A0+CHAT;FARA+%3A%3A+DISTINCTION+%E2%86%92+COMPOSITION;SECOND+MIND+%3A%3A+MEMORY+%E2%86%94+TIME+%E2%86%94+SELF" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=1600&pause=400&color=BBBBBB&center=true&vCenter=true&width=1000&height=55&lines=DISTINCTION+%E2%86%92+COMPOSITION;COMPOSITION+%E2%86%92+RECURSION;RECURSION+%E2%86%92+GILGAMESH;GILGAMESH+%E2%86%92+ERROR" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=12&duration=1100&pause=200&color=999999&center=true&vCenter=true&width=900&height=32&lines=0+%E2%86%92+1+%E2%86%92+%3F%3F%3F+%E2%86%92+%E2%88%9E;PROCESS+%3F%3F%3F+%E2%86%92+PROCESS+%3F%3F%3F;ERROR%3A+DEFINITION+NOT+FOUND;ERROR%3A+ERROR+NOT+FOUND;WARNING%3A+OBSERVER+DETECTED;WARNING%3A+OBSERVER+IS+THE+OBSERVED" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=1400&pause=350&color=999999&center=true&vCenter=true&width=1000&height=55&lines=MARAGRAM+%3A%3A+SPACE+%3E+TIMELINE;FARA+%3A%3A+DISTINCTION+%3E+COMPOSITION;SECOND+MIND+%3A%3A+MEMORY+%3E+ORDER;ABDALLAH+%3A%3A+PLEASE+WAIT" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=11&duration=1300&pause=240&color=777777&center=true&vCenter=true&width=900&height=30&lines=ABSURDITY+%3D+VALID+STATE;PARADOX+%3D+INPUT+ACCEPTED;OPEN+SOURCE+%3A%3A+BOUNDARIES+EXPOSED;INCOMPLETE+%3D+INTENTIONAL;UNKNOWN+%3D+SPACE+FOR+DISCOVERY" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=1100&pause=250&color=666666&center=true&vCenter=true&width=1000&height=55&lines=ERROR%3A+REALITY+HAS+TOO+MANY+FEATURES;WARNING%3A+GILGAMESH+HAS+NO+GITHUB+ACCOUNT;NOTICE%3A+ABDALLAH+HAS+COMMITTED+TO+MAIN;NOTICE%3A+THIS+WAS+A+BAD+IDEA" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=1500&pause=350&color=AAAAAA&center=true&vCenter=true&width=900&height=35&lines=HUMAN+%E2%86%94+MACHINE;PHILOSOPHY+%E2%86%94+COMPUTATION;CHAOS+%E2%86%94+ORDER;QUESTION+%E2%86%94+REALITY;MORCELAGOX+%E2%86%92+%3F%3F%3F" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=1700&pause=450&color=FFFFFF&center=true&vCenter=true&width=1000&height=55&lines=NOT+A+PORTFOLIO;NOT+A+BIOGRAPHY;NOT+A+PRODUCT;NOT+EVEN+SURE+WHAT+THIS+IS" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=10&duration=1700&pause=400&color=666666&center=true&vCenter=true&width=800&height=28&lines=NOT+A+PORTFOLIO;NOT+NOT+A+PORTFOLIO;SYSTEM+UNDER+CONSTRUCTION;DEFINITION+PENDING;STILL+SEARCHING;STILL+BUILDING;STILL+UNDEFINED" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=1300&pause=350&color=888888&center=true&vCenter=true&width=1000&height=55&lines=GILGAMESH+ASKED+FOR+THE+SOURCE+CODE;ABDALLAH+ASKED+WHY;THE+SOURCE+CODE+ASKED+FOR+MORE+RAM;THE+RAM+LEFT" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&width=800&height=45&lines=%40MORCELAGOX;%3F%3F%3F" />
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1500&pause=400&color=AAAAAA&center=true&vCenter=true&width=1000&height=55&lines=ABSURDITY+IS+A+VALID+STATE;CONFUSION+IS+A+USER+INTERFACE;TRUTH+HAS+NO+BUTTON;POSSIBILITY+HAS+NO+DEFAULT+VALUE" />
+
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=1200&pause=300&color=777777&center=true&vCenter=true&width=1000&height=55&lines=WHO+IS+ABDALLAH%3F;WHO+IS+GILGAMESH%3F;WHO+IS+MORCELAGOX%3F;WHY+IS+THE+SERVER+RUNNING%3F" />
+
+<img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=STILL+BUILDING;STILL+SEARCHING;STILL+BREAKING+THINGS;STILL+UNDEFINED;???" />
 
 </div>

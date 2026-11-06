@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#21262d"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="47%" r="45%">
+      <stop offset="0" stop-color="#a371f7" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1000" height="400" rx="14"/></clipPath>
+    <path id="o1" d="M280,190 a220,60 0 1,0 440,0 a220,60 0 1,0 -440,0"/>
+    <path id="o2" d="M180,190 a320,95 0 1,0 640,0 a320,95 0 1,0 -640,0"/>
+    <path id="o3" d="M60,190 a440,130 0 1,0 880,0 a440,130 0 1,0 -880,0"/>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .q { font-size: 128px; font-weight: 800; fill: #f0f6fc; animation: jit 3s infinite steps(1); }
+    .r { font-size: 128px; font-weight: 800; fill: #ff3b6b; opacity: 0; animation: gr 3s infinite steps(1); }
+    .c { font-size: 128px; font-weight: 800; fill: #22d3ee; opacity: 0; animation: gc 3s infinite steps(1); }
+    @keyframes jit { 0%,85%,100% { transform: translate(0,0) } 88% { transform: translate(3px,-2px) skewX(-8deg) } 91% { transform: translate(-4px,1px) } 94% { transform: translate(2px,0) skewX(6deg) } }
+    @keyframes gr { 0%,85%,97%,100% { opacity: 0; transform: translate(0,0) } 88% { opacity: .85; transform: translate(-7px,3px) } 91% { opacity: .85; transform: translate(6px,-2px) } 94% { opacity: .85; transform: translate(-3px,0) } }
+    @keyframes gc { 0%,85%,97%,100% { opacity: 0; transform: translate(0,0) } 88% { opacity: .85; transform: translate(7px,-3px) } 91% { opacity: .85; transform: translate(-6px,2px) } 94% { opacity: .85; transform: translate(4px,1px) } }
+    .orbit { fill: none; stroke: #30363d; stroke-width: 1; stroke-dasharray: 3 7; }
+    .lbl { font-size: 13px; fill: #c9d1d9; }
+    .dim { font-size: 12px; fill: #6e7681; }
+    .bar { font-size: 13px; fill: #8b949e; }
+    .p { font-size: 20px; fill: #e6edf3; opacity: 0; animation: ph 21s infinite; }
+    @keyframes ph { 0% { opacity: 0 } 2%, 12% { opacity: 1 } 14%, 100% { opacity: 0 } }
+    .blink { animation: bl 1s infinite steps(1); }
+    @keyframes bl { 50% { opacity: 0 } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="400" fill="#0d1117"/>
+    <rect width="1000" height="400" fill="url(#dots)"/>
+    <rect width="1000" height="400" fill="url(#glow)"/>
+
+    <!-- window chrome -->
+    <rect width="1000" height="36" fill="#161b22"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+    <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+    <circle cx="62" cy="18" r="6" fill="#28c840"/>
+    <text x="500" y="23" text-anchor="middle" class="bar">reality.exe — (Not Responding)</text>
+    <text x="980" y="23" text-anchor="end" class="bar">v8.???</text>
+
+    <use href="#o1" class="orbit"/>
+    <use href="#o2" class="orbit"/>
+    <use href="#o3" class="orbit"/>
+
+    <!-- the undefined center -->
+    <text x="500" y="190" text-anchor="middle" dominant-baseline="central" class="r">???</text>
+    <text x="500" y="190" text-anchor="middle" dominant-baseline="central" class="c">???</text>
+    <text x="500" y="190" text-anchor="middle" dominant-baseline="central" class="q">???</text>
+
+    <!-- inner orbit -->
+    <g>
+      <circle r="6" fill="#22d3ee"/><text x="11" y="4" class="lbl">Maragram</text>
+      <animateMotion dur="14s" repeatCount="indefinite"><mpath href="#o1"/></animateMotion>
+    </g>
+    <!-- middle orbit -->
+    <g>
+      <circle r="6" fill="#ff7b72"/><text x="11" y="4" class="lbl">FARA <tspan class="dim">(arguing with itself)</tspan></text>
+      <animateMotion dur="22s" repeatCount="indefinite"><mpath href="#o2"/></animateMotion>
+    </g>
+    <g>
+      <circle r="6" fill="#a371f7"/><text x="11" y="4" class="lbl">Second Mind</text>
+      <animateMotion dur="22s" begin="-11s" repeatCount="indefinite"><mpath href="#o2"/></animateMotion>
+    </g>
+    <!-- outer orbit: the uninvited -->
+    <g>
+      <circle r="5" fill="#e3b341"/><text x="10" y="4" class="lbl">Gilgamesh <tspan class="dim">(still waiting)</tspan></text>
+      <animateMotion dur="90s" repeatCount="indefinite"><mpath href="#o3"/></animateMotion>
+    </g>
+    <g>
+      <circle r="5" fill="#3fb950"/><text x="10" y="4" class="lbl">Abdallah <tspan class="dim">(where are the docs?)</tspan></text>
+      <animateMotion dur="30s" begin="-15s" repeatCount="indefinite"><mpath href="#o3"/></animateMotion>
+    </g>
+
+    <!-- rotating confessions -->
+    <text x="500" y="355" text-anchor="middle" class="p" style="animation-delay:0s">the definition was deleted</text>
+    <text x="500" y="355" text-anchor="middle" class="p" style="animation-delay:3s">reality has no README</text>
+    <text x="500" y="355" text-anchor="middle" class="p" style="animation-delay:6s">nobody invited Gilgamesh</text>
+    <text x="500" y="355" text-anchor="middle" class="p" style="animation-delay:9s">the server accepted both</text>
+    <text x="500" y="355" text-anchor="middle" class="p" style="animation-delay:12s">production is philosophically unstable</text>
+    <text x="500" y="355" text-anchor="middle" class="p" style="animation-delay:15s">I have made the problem interactive</text>
+    <text x="500" y="355" text-anchor="middle" class="p" style="animation-delay:18s">this is MORCELAGOX</text>
+
+    <text x="500" y="386" text-anchor="middle" class="dim">STATUS: undefined · alive · building · confused · continue<tspan class="blink" fill="#f0f6fc">█</tspan></text>
+  </g>
+  <rect x=".5" y=".5" width="999" height="399" rx="14" fill="none" stroke="#30363d"/>
+</svg>

@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="480" viewBox="0 0 1000 480">
+  <defs>
+    <clipPath id="card"><rect width="1000" height="480" rx="14"/></clipPath>
+    <clipPath id="lang"><rect x="30" y="410" width="940" height="12" rx="6"/></clipPath>
+    <pattern id="stripes" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="6" height="12" fill="#e3b341"/><rect x="6" width="6" height="12" fill="#bb8009"/>
+    </pattern>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .title { font-size: 22px; font-weight: 700; fill: #f0f6fc; }
+    .sub { font-size: 12px; fill: #6e7681; }
+    .lbl { font-size: 14px; fill: #c9d1d9; }
+    .val { font-size: 14px; font-weight: 700; fill: #f0f6fc; }
+    .note { font-size: 11px; fill: #6e7681; }
+    .track { fill: #21262d; }
+    .leg { font-size: 12px; fill: #c9d1d9; }
+    .blink { animation: bl 1s infinite steps(1); }
+    @keyframes bl { 50% { opacity: 0 } }
+    .spin { transform-origin: 800px 205px; animation: sp 9s linear infinite; }
+    @keyframes sp { to { transform: rotate(360deg) } }
+    .dots tspan { animation: bl 1.2s infinite steps(1); }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="480" fill="#0d1117"/>
+
+    <text x="30" y="46" class="title">MORCELAGOX's Philosophical Stats</text>
+    <text x="30" y="68" class="sub">verified by nobody · peer-reviewed by Gilgamesh · last updated: undefined</text>
+
+    <!-- 1. questions -->
+    <text x="30" y="105" class="lbl">❓ Questions asked</text>
+    <text x="600" y="105" text-anchor="end" class="val">99,999+</text>
+    <rect x="30" y="114" width="570" height="8" rx="4" class="track"/>
+    <rect x="30" y="114" width="0" height="8" rx="4" fill="#58a6ff">
+      <animate attributeName="width" from="0" to="570" dur="1.6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+    </rect>
+
+    <!-- 2. answers -->
+    <text x="30" y="151" class="lbl">💡 Answers found</text>
+    <text x="600" y="151" text-anchor="end" class="val"><tspan class="blink">0</tspan></text>
+    <rect x="30" y="160" width="570" height="8" rx="4" class="track"/>
+    <text x="36" y="185" class="note dots">searching<tspan>.</tspan><tspan style="animation-delay:.4s">.</tspan><tspan style="animation-delay:.8s">.</tspan> (since 2100 BC)</text>
+
+    <!-- 3. bugs -->
+    <text x="30" y="215" class="lbl">🐛 Bugs reclassified as philosophy</text>
+    <text x="600" y="215" text-anchor="end" class="val">87%</text>
+    <rect x="30" y="224" width="570" height="8" rx="4" class="track"/>
+    <rect x="30" y="224" width="0" height="8" rx="4" fill="#a371f7">
+      <animate attributeName="width" from="0" to="496" dur="1.8s" begin=".3s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+    </rect>
+
+    <!-- 4. gilgamesh -->
+    <text x="30" y="261" class="lbl">⏳ Gilgamesh's patience</text>
+    <text x="600" y="261" text-anchor="end" class="val">∞</text>
+    <rect x="30" y="270" width="570" height="8" rx="4" class="track"/>
+    <rect x="30" y="270" width="0" height="8" fill="url(#stripes)">
+      <animate attributeName="width" from="0" to="1400" dur="7s" begin=".6s" fill="freeze"/>
+    </rect>
+    <text x="250" y="261" class="note" style="fill:#ff7b72;font-weight:700" opacity="0">
+      OVERFLOW → leaving the card
+      <animate attributeName="opacity" values="0;1;0" dur="1s" begin="3s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- 5. abdallah -->
+    <text x="30" y="307" class="lbl">📄 Docs written for Abdallah</text>
+    <text x="600" y="307" text-anchor="end" class="val">0 <tspan class="note">/ 42 requests</tspan></text>
+    <rect x="30" y="316" width="570" height="8" rx="4" class="track"/>
+    <rect x="30" y="316" width="0" height="8" rx="4" fill="#3fb950">
+      <animate attributeName="width" values="0;14;0" dur="3s" begin="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- 6. meaning -->
+    <text x="30" y="347" class="lbl">🧠 Meaning loaded</text>
+    <text x="600" y="347" text-anchor="end" class="val">99% <tspan class="note">ETA: ∞</tspan></text>
+    <rect x="30" y="356" width="570" height="8" rx="4" class="track"/>
+    <rect x="30" y="356" width="0" height="8" rx="4" fill="#22d3ee">
+      <animate attributeName="width" values="0;564;564;560;564" keyTimes="0;.4;.7;.85;1" dur="5s" begin=".9s" fill="freeze"/>
+    </rect>
+
+    <!-- rank ring -->
+    <circle cx="800" cy="205" r="82" fill="none" stroke="#21262d" stroke-width="10"/>
+    <g class="spin">
+      <circle cx="800" cy="205" r="82" fill="none" stroke="#ff7b72" stroke-width="10" stroke-linecap="round" stroke-dasharray="515" stroke-dashoffset="515">
+        <animate attributeName="stroke-dashoffset" values="515;130;470;60;515" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="stroke" values="#ff7b72;#a371f7;#22d3ee;#e3b341;#ff7b72" dur="8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="800" y="205" text-anchor="middle" dominant-baseline="central" style="font-size:46px;font-weight:800;fill:#f0f6fc">???</text>
+    <text x="800" y="318" text-anchor="middle" class="lbl">rank: undefined</text>
+    <text x="800" y="338" text-anchor="middle" class="note">(the ranking system is under review)</text>
+
+    <!-- languages -->
+    <text x="30" y="400" class="lbl" style="font-weight:700">Most Used Languages</text>
+    <g clip-path="url(#lang)">
+      <rect x="30" y="410" width="940" height="12" fill="#21262d"/>
+      <g>
+        <rect x="30"  y="410" width="320" height="12" fill="#a371f7"/>
+        <rect x="350" y="410" width="207" height="12" fill="#ff7b72"/>
+        <rect x="557" y="410" width="169" height="12" fill="#e3b341"/>
+        <rect x="726" y="410" width="103" height="12" fill="#3fb950"/>
+        <rect x="829" y="410" width="66"  height="12" fill="#58a6ff"/>
+        <rect x="895" y="410" width="75"  height="12" fill="#6e7681"/>
+        <animateTransform attributeName="transform" type="translate" from="-940 0" to="0 0" dur="1.4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      </g>
+    </g>
+    <g class="leg">
+      <circle cx="36"  cy="446" r="5" fill="#a371f7"/><text x="48"  y="450">Philosophy 34.0%</text>
+      <circle cx="196" cy="446" r="5" fill="#ff7b72"/><text x="208" y="450">Kotlin 22.0%</text>
+      <circle cx="326" cy="446" r="5" fill="#e3b341"/><text x="338" y="450">Absurdity 18.0%</text>
+      <circle cx="486" cy="446" r="5" fill="#3fb950"/><text x="498" y="450">Coffee 11.0%</text>
+      <circle cx="616" cy="446" r="5" fill="#58a6ff"/><text x="628" y="450">Java 7.0%</text>
+      <circle cx="726" cy="446" r="5" fill="#6e7681"/><text x="738" y="450">??? 8.0%</text>
+      <text x="970" y="470" text-anchor="end" class="note">* Coffee is not a language. Coffee has no ontology. Coffee was counted anyway.</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="999" height="479" rx="14" fill="none" stroke="#30363d"/>
+</svg>

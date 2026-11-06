@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="412" viewBox="0 0 1000 412">
+  <defs>
+    <clipPath id="card"><rect width="1000" height="412" rx="14"/></clipPath>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+    <path id="r1" d="M-150,0 a150,150 0 1,1 300,0 a150,150 0 1,1 -300,0"/>
+    <path id="r2" d="M-172,0 a172,172 0 1,1 344,0 a172,172 0 1,1 -344,0"/>
+    <radialGradient id="aura" cx="50%" cy="50%" r="30%">
+      <stop offset="0" stop-color="#e3b341" stop-opacity=".18"/><stop offset="1" stop-color="#e3b341" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .cw { animation: rot 80s linear infinite; }
+    .ccw { animation: rot 120s linear infinite reverse; }
+    .star { animation: rot 40s linear infinite reverse; }
+    @keyframes rot { to { transform: rotate(360deg) } }
+    .ring { font-size: 11px; letter-spacing: 2px; fill: #8b949e; }
+    .ring2 { font-size: 10px; letter-spacing: 2px; fill: #6e7681; }
+    .v { fill: #0d1117; stroke: #e3b341; stroke-width: 1.5; animation: vp 3.5s infinite; }
+    @keyframes vp { 0%, 30%, 100% { fill: #0d1117 } 10% { fill: #e3b341 } }
+    .vn { font-size: 10px; fill: #6e7681; }
+    .eye { animation: blink 6s infinite; }
+    @keyframes blink { 0%, 90%, 100% { transform: scaleY(1) } 94% { transform: scaleY(.06) } }
+    .pupil { animation: look 9s infinite; }
+    @keyframes look { 0%, 20% { transform: translate(0,0) } 30%, 45% { transform: translate(-14px,1px) } 55%, 70% { transform: translate(13px,-2px) } 80%, 100% { transform: translate(0,3px) } }
+    .hud { font-size: 11px; letter-spacing: 1px; fill: #6e7681; }
+    .hudv2 { font-size: 14px; fill: #c9d1d9; }
+    .whisper { font-size: 12px; fill: #6e7681; opacity: 0; animation: wh 12s infinite; }
+    @keyframes wh { 0% { opacity: 0 } 5%, 28% { opacity: 1 } 33%, 100% { opacity: 0 } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1000" height="412" fill="#0d1117"/>
+    <rect width="1000" height="412" fill="url(#aura)"/>
+    <g transform="translate(500 196)">
+      <g class="ccw"><circle r="172" fill="none" stroke="#21262d" stroke-dasharray="1 5"/>
+        <text class="ring2"><textPath href="#r2" textLength="1064.5">DO NOT COUNT THE GATES · IF YOU COUNT EIGHT, STOP · THE GUARD IS NOT A GUARD · THE DOOR IS NOT A DOOR · THE TOLL IS EVERYTHING YOU DEFINED · </textPath></text></g>
+      <g class="cw"><circle r="138" fill="none" stroke="#30363d"/>
+        <text class="ring"><textPath href="#r1" textLength="928.3">WHAT ENTERS AS A QUESTION LEAVES AS A SMALLER QUESTION · THE SEVENTH GATE OPENS INWARD · INWARD OF WHAT · </textPath></text></g>
+      <g class="star">
+        <polygon points="0.00,-112.00 109.19,24.92 -48.59,100.91 -87.57,-69.83 87.57,-69.83 48.59,100.91 -109.19,24.92" fill="none" stroke="#30363d" stroke-width="1"/>
+        <polygon points="0.00,-112.00 48.59,100.91 -87.57,-69.83 109.19,24.92 -109.19,24.92 87.57,-69.83 -48.59,100.91" fill="none" stroke="#e3b341" stroke-width="1.6" filter="url(#blur)" opacity=".6"/>
+        <polygon points="0.00,-112.00 48.59,100.91 -87.57,-69.83 109.19,24.92 -109.19,24.92 87.57,-69.83 -48.59,100.91" fill="none" stroke="#e3b341" stroke-width="1.2"/>
+        <g transform="translate(0.00 -112.00)"><circle r="7" class="v" style="animation-delay:0.0s"/><text y="-14" text-anchor="middle" class="vn">I</text></g><g transform="translate(87.57 -69.83)"><circle r="7" class="v" style="animation-delay:0.5s"/><text y="-14" text-anchor="middle" class="vn">II</text></g><g transform="translate(109.19 24.92)"><circle r="7" class="v" style="animation-delay:1.0s"/><text y="-14" text-anchor="middle" class="vn">III</text></g><g transform="translate(48.59 100.91)"><circle r="7" class="v" style="animation-delay:1.5s"/><text y="-14" text-anchor="middle" class="vn">IV</text></g><g transform="translate(-48.59 100.91)"><circle r="7" class="v" style="animation-delay:2.0s"/><text y="-14" text-anchor="middle" class="vn">V</text></g><g transform="translate(-109.19 24.92)"><circle r="7" class="v" style="animation-delay:2.5s"/><text y="-14" text-anchor="middle" class="vn">VI</text></g><g transform="translate(-87.57 -69.83)"><circle r="7" class="v" style="animation-delay:3.0s"/><text y="-14" text-anchor="middle" class="vn">VII</text></g>
+      </g>
+      <g class="eye">
+        <path d="M-38,0 Q0,-27 38,0 Q0,27 -38,0Z" fill="#0d1117" stroke="#e3b341" stroke-width="1.5"/>
+        <g class="pupil"><circle r="10" fill="#e3b341"/><circle r="4" fill="#0d1117"/></g>
+      </g>
+    </g>
+    <text x="40" y="110" text-anchor="start" class="hud">SIGIL</text><text x="40" y="127" text-anchor="start" class="hudv2">of the seventh gate</text><text x="40" y="150" text-anchor="start" class="hud">STATUS</text><text x="40" y="167" text-anchor="start" class="hudv2">ajar</text><text x="40" y="190" text-anchor="start" class="hud">OPENS</text><text x="40" y="207" text-anchor="start" class="hudv2">inward</text><text x="40" y="230" text-anchor="start" class="hud">KEY</text><text x="40" y="247" text-anchor="start" class="hudv2">???</text><text x="40" y="270" text-anchor="start" class="hud">GUARD</text><text x="40" y="287" text-anchor="start" class="hudv2">on break since 2100 BC</text>
+    <text x="960" y="110" text-anchor="end" class="hud">LAST OPENED</text><text x="960" y="127" text-anchor="end" class="hudv2">never</text><text x="960" y="150" text-anchor="end" class="hud">NEXT OPENING</text><text x="960" y="167" text-anchor="end" class="hudv2">yesterday</text><text x="960" y="190" text-anchor="end" class="hud">CONTENTS</text><text x="960" y="207" text-anchor="end" class="hudv2">[REDACTED]</text><text x="960" y="230" text-anchor="end" class="hud">SMELLS LIKE</text><text x="960" y="247" text-anchor="end" class="hudv2">old questions</text><text x="960" y="270" text-anchor="end" class="hud">WARNING</text><text x="960" y="287" text-anchor="end" class="hudv2">there may be eight</text>
+    <text x="500" y="398" text-anchor="middle" class="whisper" style="animation-delay:0s">the eye is not looking at you. it is looking at what you are about to define.</text>
+    <text x="500" y="398" text-anchor="middle" class="whisper" style="animation-delay:4s">it has been counting the gates. it keeps getting a different number.</text>
+    <text x="500" y="398" text-anchor="middle" class="whisper" style="animation-delay:8s">Gilgamesh asked it about immortality. it blinked. that was the answer.</text>
+  </g>
+  <rect x=".5" y=".5" width="999" height="411" rx="14" fill="none" stroke="#30363d"/>
+</svg>
